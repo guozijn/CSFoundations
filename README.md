@@ -1,1 +1,1 @@
-# Foundations of Computer Science Notebooks
+# Foundations of Computer Science
